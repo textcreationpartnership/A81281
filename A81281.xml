@@ -1,0 +1,293 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Mrs. Mary Stout widow</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81281</idno>
+            <idno type="STC">Wing C961</idno>
+            <idno type="STC">ESTC R229592</idno>
+            <idno type="EEBO-CITATION">99895468</idno>
+            <idno type="PROQUEST">99895468</idno>
+            <idno type="VID">152874</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81281)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152874)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2329:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Mrs. Mary Stout widow</title>
+                  <author>Cowper, Spencer, 1669-1728.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1699?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the Cambridge University Library, Cambridge, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Stout, Mary, 17th cent. --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Trials (Murder) --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:152874:1" rendition="simple:additions"/>
+            <head>THE CASE OF Mrs. <hi>Mary Stout</hi> Widow.</head>
+            <p>IN <hi>March</hi> 1699. being within the ſpace of a Year after the ſuppoſed Murder of Mrs.
+<hi>Sarah Stout,</hi> a Writ of Appeal was ſued out of the High Court of <hi>Chancery,</hi>
+againſt <hi>Spencer Cowper,</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John Marſon, Ellis Stevens,</hi> and
+<hi>William Rogers,</hi> Gent. in order for the Trial of them, at the Suit of one <hi>Henry
+Stout,</hi> Heir at Law to the De<g ref="char:EOLhyphen"/>ceaſed, and the Appellant named in the Writ of Appeal, who at
+the time of Suing out ſuch Writ, was about the Age of Ten Years.</p>
+            <p>Mrs. <hi>Stout,</hi> the Mother of the deceaſed, after ſuch Appeal was ſued out, cauſed
+the ſame to be delivered to one Mr. <hi>Boſtock Toller,</hi> the Under-Sheriff for the County
+of <hi>Hertford,</hi> in order for his Apprehending of the Appellees mentioned in the ſaid Writ.
+And ſhe ſearing, leſt he would be either Remiſs, or unmindful, in the due Execution
+thereof, ſome ſhort time after, ſhe ſent a Neighbour of hers to Mr. <hi>Toller,</hi> to
+know what he had done, or would do, with the Writ; whether he had Executed the ſame, or whether
+he would return the Parties were not to be found; which Meſſage was duely carried, with a
+particular account. That Mrs. <hi>Mary Stout,</hi> the Mother of the deceaſed, was the Perſon
+that ſent the ſame. To which Mr. <hi>Toller</hi> returned this anſwer, <hi>Mrs.</hi> Stout
+<hi>is a very buſie, uneaſie Woman; but however, when the Writ is out, I will make ſuch
+Return thereof as the Law directs.</hi>
+            </p>
+            <p>Mrs. <hi>Stout</hi> having received ſuch an Anſwer, and expecting to have a Return of the
+Writ, according to Mr. <hi>Toller</hi>'s promiſe, on the 13th of <hi>April</hi> following, was in
+order thereto, and for the further deſigned Proſecution of the matter, duly admitted Guardian
+to the Appellant; and as ſuch, on the 15th of the ſame Month of <hi>April,</hi> being the
+firſt day of the then <hi>Eaſter Term,</hi> appeared Perſonally in the Court of King's Bench,
+in order to Arraign the Appellees, in caſe the Under-Sheriff ſhould have returned them
+taken.</p>
+            <p>Upon ſuch attendance of Mrs. <hi>Stout,</hi> Mr. <hi>Toller</hi> was frequently called,
+pending the whole time the Court ſate (the Writ being then Returnable) to make a Return of the
+Writ: But he made default, and inſtead thereof, Mr. <hi>Marſon,</hi> one of the Appellees
+appeared in Court, and prayed either to be Arraigned or Diſcharged: Tho' the Writ was not then,
+or ever ſince, ſeen or returned in Court; ſo that ſuch Mr <hi>Marſon</hi>'s motion
+appearing only to be a Shew, or Bravado, no damage or ad<g ref="char:EOLhyphen"/>vantage being to be ſuſtained or
+gained to him thereby; the ſame was rejected.</p>
+            <p>Upon the ſecond day of the ſame Term, the Court of King's Bench was moved on the behalf of
+Mrs. <hi>Stout,</hi> that a ſhort day might be appointed peremptorily for Mr. <hi>Toller</hi> to
+make his Return. But then (tho' Mr. <hi>Marſon</hi> knew of the Writ of Ap<g ref="char:EOLhyphen"/>peal's coming to Mr.
+<hi>Toller</hi>'s hand, as appears by his praying an Arraignment but the day before,) it was
+ſuggeſted in Court, That no Writ of Appeal was ever left
+<pb n="2" facs="tcp:152874:2" rendition="simple:additions"/>with Mr. <hi>Toller,</hi> againſt the
+Appellees: And upon ſuch Suggeſtion, Mrs. <hi>Stout</hi> then loſt the benefit of her Motion,
+and was forced the next day to get an Affidavit of the delivery of the Writ, which ſhe
+accordingly did; and thereupon ſhe moving again for a peremptory Return, then the Under-Sheriff's
+Receipt of the Writ of Ap<g ref="char:EOLhyphen"/>peal was granted, and thereupon a Rule of Court obtained to compel him to
+appear, and make a Return of the Writ; which Rule was ſerved, and thereupon Mr. <hi>Toller</hi>
+ſoon after attended, and by Affidavit informed the Court, That upon the 16th day of the ſame
+Month of <hi>April,</hi> (which was a day after the Return of the Writ, and three days after Mrs.
+<hi>Mary Stout</hi> was admitted Guardian to the Appellant) he deli<g ref="char:EOLhyphen"/>vered up the Writ into the
+Infant's Hand.</p>
+            <p>Upon which account given by Mr. <hi>Toller,</hi> the Court of King's Bench order'd him to be
+Examined upon Interrogatories, touching the delivery of the Writ; and ac<g ref="char:EOLhyphen"/>cordingly Mrs.
+<hi>Stout</hi> the Guardian prepared the ſame, but could not without con<g ref="char:EOLhyphen"/>ſiderable Difficulty
+get him Examined, (being forced to be at the Charge of two or three Orders of Court, for that
+purpoſe, before he came.) At laſt his Examination was taken, in and by which he owns the
+Receipt of the Writ of Appeal; And that he was informed, That Mrs. <hi>Mary Stout,</hi> the Mother
+of the deceaſed, proſecuted the ſaid Writ, that ſhe ſent the ſame to him; and that the
+Infant, the Appellant, was a perfect Stranger to him, when he delivered it into his hands: But
+then, to extenuate the matter on his own behalf, the Reaſons he alledges in his Examination for
+ſuch his delivery, are, That the Appellant came with the Mother, Uncle, Aunt, and one Mr.
+<hi>Wodford,</hi> an old Acquaintance of his, for the Writ; and that Mr. <hi>Wodford</hi> in<g ref="char:EOLhyphen"/>formed
+him of the Reality of the Appellant, and his Relations; and delivered him a Note under the Hand of
+<hi>William Cowper,</hi> 
+               <abbr>Eſq</abbr> purporting the ſame, That the In<g ref="char:EOLhyphen"/>fant was the
+Plaintiff in the Appeal; that one of the Women was his Mother, and that the other Man and Woman his
+Uncle and Aunt; which, together with the ready Anſwers they gave to ſuch Queſtions as Mr.
+<hi>Toller</hi> asked them, induced him to believe them to be the real Parties; as in his
+Examination he ſets forth.</p>
+            <p>Mr. <hi>Toller</hi> ſays further, That on the 26th of the ſame Month of <hi>April,</hi>
+he-deſired the Infant, his Mother, Uncle and Aunt, to deliver him back the Writ; but they
+declared, That the Infant with advice had burnt the ſame.</p>
+            <p>Mr. <hi>Toller,</hi> in his Examination, gives this account, That ſome ſhort time before his
+Receipt of the Writ, he received a Letter from Mr. <hi>William Cowper,</hi> to know whe<g ref="char:EOLhyphen"/>ther any
+Writ of Appeal was come to his hands, againſt Mr. <hi>Spencer Cowper:</hi> To which he
+anſwer'd, there was none: That ſome ſhort time after ſuch Writ was come to his hands, he
+received another Letter from Mr. <hi>William Cowper,</hi> to the ſame effect of the former: To
+which Mr. <hi>Toller</hi> anſwered, There was; and ſent him the Con<g ref="char:EOLhyphen"/>tents of the ſaid Writ.
+That after ſuch Writ came to his hands, Mr. <hi>Spencer Cowper</hi> ſent him a Letter, to know
+whether he had received any Writ againſt him: To which Mr. <hi>Toller</hi> informed him, He had.
+So that by Mr. <hi>Toller</hi>'s own Examination, a perfect Correſpondence is owned; and an
+Intelligence from time to time, and from one party to another, is given.</p>
+            <p>That upon the laſt day of the ſame Term, Mr. <hi>Toller</hi>'s Examination was Reported to
+the Court of King's Bench; who, upon the hearing the ſame, were of opinion, That he was guilty of
+an high Miſdemeanour, and was in Contempt of that Court; and thereupon was committed to the
+<hi>Marſhalſea,</hi> and fined 200 Marks.</p>
+            <p>That Mrs. <hi>Stout</hi> having received no ſatisfaction for the Blood of her Daughter, by the
+Under-Sheriff's being ſo fined, did petition the now Lord Keeper for a New Writ; the time being
+elapſed then for the Suing out of another of Courſe; at which time alſo, there was a croſs
+Petition preferr'd in the Infant's Name, praying, That no new Writ of Appeal ſhould be Sued out
+in his Name. And the Subject Matter of both Petitions being debated before the now Lord Keeper, the
+Maſter of the Rolls, the late Lord Chief Juſtice <hi>Treby,</hi> the Lord Chief Baron
+<hi>Ward,</hi> and Mr. Juſtice <hi>Powel;</hi> upon ſuch Debate, it not then appearing by any
+poſitive Proof, that the Ap<g ref="char:EOLhyphen"/>pellees in the Writ, nor any of them, were privy to the Deſtruction
+of the Writ: It was therefore thought hardly Reaſonable, that a New Writ ſhould be granted;
+which was a great Cauſe of Mrs. <hi>Stout</hi>'s Petition being rejected.</p>
+            <p>Now Mrs. <hi>Stout</hi>'s Petition was grounded purely upon another bottom, (ſhe not imagining
+that ſuch an Objection would have been ſtarted.) For ſhe was adviſed, that if Juſtice had
+been obſtructed, whether it had been by accident, or deſign, in either
+<pb n="3" facs="tcp:152874:2"/>Caſe a ſuitable Remedy might have been found:
+As, ſuppoſing the Writ of Appeal had been accidentally burnt when in the Sheriff's Cuſtody,
+as it really was, when it was out, in reſpect to have a Diſcovery of Truth, the Court, which
+firſt gave the Writ (ſhe was adviſed by Counſel learned in the Law) could ſupply the
+loſs of it.</p>
+            <p>Had ſhe imagined, that all the Appellees would have ſo much as inſtanced their total
+Ignorance, as to the Deſtruction of the Writ, ſhe could have much better prepared her ſelf to
+have given them an Anſwer—She could have ſet forth how the Infant, his Mother, and the
+Appellees Atorney, went in a Coach with Four Horſes, to the Under-Sheriff at <hi>Hertford,</hi>
+and there took the Writ of Appeal from him, and from thence brought it to <hi>London:</hi> She
+could have informed the Court of a more particular Intelligence, lately confirmed, concerning the
+Deſtruction of the Writ, by whoſe Order, and at whoſe Chamber, the ſame was burnt: Which
+mat<g ref="char:EOLhyphen"/>ters, if yet Examined, will ſufficiently Evince, whether the Appellees, or ſome one of
+them, were privy or not to the Deſtruction of the Writ.</p>
+            <p>There was an Objection againſt Mrs. <hi>Stout</hi>'s Petition, That the Writ of Appeal was
+never well Sued out, (the Infant nor his Mother, not knowing of the ſame till afterwards.) But to
+that, beſides the Proofs Mrs. <hi>Stout</hi> could have given to the con<g ref="char:EOLhyphen"/>trary, ſhe was and is
+ſtill adviſed, That her being duly admitted Guardian, by the free Conſent of the Infant,
+(tho' ſubſequent in time to the Suing out of the Writ) the ſame in Law is very Authentick,
+and makes the ſame well ſued out. And it is preſumed, that no Perſon will ſay, That the
+Lord Keeper, and the other Judges did all agree to the contrary, upon debate of the Matters before
+them.</p>
+            <p>It was mightily inſiſted upon by the Counſel for the Appellees, at the hearing of both
+Petitions, as if Mrs. <hi>Stout</hi> ſhould cauſe her ſelf to be admitted Guardian to the
+Infant, only to protect her Eſtate from the Infant, and that without the privity of the Infants
+Mother, or any of his Relations: But (beſides the very Admittance it ſelf, which is purely for
+Proſecuting the Appeal, and for nothing elſe) Mrs. <hi>Stout</hi> was always ready to
+diſcover the Title of her Eſtate; and never but declared, That the Infant had no right thereto.
+And as to the Infant's Mother's not knowing of Mrs. <hi>Stout</hi>'s Deſigns, it is very eaſily
+anſwered, for it is not only Sworn, and the Affidavirs filed in the <hi>Kings-Bench,</hi> That
+Mrs. <hi>Stout</hi> wrote to the Infant's Mother, what her Deſigns were: But alſo, a particular
+Account is in thoſe Affidavits ſet forth, How willing the Infant's Mother was to ſend her Son
+to Mrs. <hi>Stout,</hi> Order<g ref="char:EOLhyphen"/>ing one of his Uncles to carry him to her, for Mrs. <hi>Stout</hi> to
+do with him as her Occaſions required; and withal directing ſuch Uncle to deliver her Son to
+Mrs. <hi>Stout,</hi> and to none but her, and to do according to her Directions.</p>
+            <p>It hath commonly been Reported, as if the Proſecution in this Appeal, hath been purely
+Vexatlous, Begun by a Body of <hi>Quakers,</hi> and Eſpouſed by a Faction at
+<hi>Hert<g ref="char:EOLhyphen"/>ford,</hi> againſt Mr. <hi>Cowper</hi>'s Intereſt. But whoever the Fomenters, or
+Spreaders abroad of ſuch Reports are, they would do well to conſider, if it were their own
+Caſe, to have an only Child murthered, and her Reputation tendered Infamous to Poſteri<g ref="char:EOLhyphen"/>ty,
+whether Nature and Duty would not oblige them to uſe all means to make a Diſcovery of the
+Cauſe thereof? And whether they would not think it hard, to have their own Endeavours reflected
+on, and their utmoſt Diligence accounted to be the Cauſe of a Party?</p>
+            <p>It hath alſo been Reported, and perhaps by ſome of the Appellees may be objected, That the
+very Method, in the Proceſs of this Appeal, Hath been Malicious, in de<g ref="char:EOLhyphen"/>laying the Suing out of
+the Writ, until the time was almoſt Elapſed, thereby to keep the Appellees in an uneaſie
+Suſpence. But in Anſwer to that, 'tis confeſſed, That it was much longer before the Writ of
+Appeal was Sued out, than was de<g ref="char:EOLhyphen"/>ſired or expected; becauſe it was near half a Year before Mrs.
+<hi>Stout</hi> could find out (tho' all that while ſhe made a diligent Search) the proper
+Perſon to make an Appellant; and after ſhe had, ſhe was forced to Examine moſt of the
+Regiſters in <hi>London</hi> and <hi>Southwark,</hi> to make out his Pedigree; and which as
+ſoon as ſhe had done, the very next day ſhe cauſed the Writ of Appeal to be Sued out; ſo
+that it was her Miſ-fortune, and not her Malice, in being under the neceſſity of ſo long a
+delay.</p>
+            <p>It is commonly urged, as a ſtrong Argument, againſt a ſecond Trial of the Ap<g ref="char:EOLhyphen"/>pellees, That
+there is no new Evidence, that Mrs. <hi>Stout</hi> hath againſt them, but
+<pb n="4" facs="tcp:152874:3" rendition="simple:additions"/>ſuch Perſons, whoever they are, not only
+Aſſert, what they are totally Ignorant of, but alſo Conclude, that Mrs. <hi>Stout</hi> takes
+a great deal of Pleaſure (eſpecially now, in her Old Age) in being in a conſtant Fatigue, and
+conſiderable Expence, purely to be rendred Ridiculous to the World, and Uneaſie to her Self, in
+the freſh and daily Renewals of her great Loſs. In Anſwer to which, She is ſufficiently
+Aſſured, That She Goes and Acts by other Principles and Deſigns; and that ſhe hath more
+Material Evidence than ever yet was made Publick; and that She believer the Appellees (tho' they
+pretend their Innocency is fenced providentially with ſuch Circumſtances, as that they need not
+fear) do not care to come to the Teſt; or elſe, Why ſhould there be ſo vigorous an
+Oppoſition againſt ſo plain an Act of Juſtice, if there was no Matter of Fact, that could
+be proved againſt them, nor no concurring Circumſtances, that would any way affect them (as
+they ſeem to Inſi<g ref="char:EOLhyphen"/>nuate?) It would have Redounded much more to their Honour and Reputation, and
+have wiped off all Occaſion of Reproach, if (inſtead of ſo mean an undermi<g ref="char:EOLhyphen"/>ning of Juſtice,
+in the Deſtruction of the Writ of Appeal) they had undergone a Second Trial; It being
+impoſſible (according to their own Aſſertions) for them to Miſcarry, or be found Guilty;
+All Perſons muſt certainly know, That it would be no Prudence in Mrs. <hi>Stout,</hi> to
+Divulge her Evidence before a Trial; and if She doth but act Prudently, for any therefore to
+alledge, She hath no Proof, is purely to ſpeak at Random and at a Venture, and ought to be
+regarded accordingly.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:152874:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
